@@ -30,8 +30,8 @@ function HomeTabs() {
 function LogoTitle() {
   return (
     <Image
-      style={{ width: 50, height: 50, backgroundColor: "black" }}
-      source={require("./Logo.png")}
+      style={{ width: 70, height: 70}}
+      source={require("./Galia.png")}
     />
   );
 }
